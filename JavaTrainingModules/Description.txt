@@ -1,0 +1,18 @@
+1) What is class in java?
+ 	A class is a group of objects which have common properties. 
+ 	It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical.
+ 	
+ 	A class in Java can contain:
+		Fields
+		Methods
+		Constructors
+		Blocks
+		Nested class and interface
+ 
+ 2) What is Method?
+ 
+ In Java, a method is like a function which is used to expose the behavior of an object.
+
+	Advantage of Method:
+		1) Code Reusability
+		2) Code Optimization
