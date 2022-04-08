@@ -39,3 +39,36 @@
 			1. Constructor name must be the same as its class name
 			2. A Constructor must have no explicit return type
 			3. A Java constructor cannot be abstract, static, final, and synchronized
+	
+ 4) what is Inheritance?
+ 	
+ 	Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. 
+ 	It is an important part of OOPs (Object Oriented programming system).
+
+	The idea behind inheritance in Java is that you can create new classes that are built upon existing classes. 
+	When you inherit from an existing class, you can reuse methods and fields of the parent class. Moreover, 
+	you can add new methods and fields in your current class also.
+	
+ 5) What is this keyword in java?
+ 	
+ 	There can be a lot of usage of Java this keyword. In Java, this is a reference variable that refers to the current object.
+ 	
+ 	Usage of Java this keyword
+ 	
+ 	1) this can be used to refer current class instance variable.
+	2) this can be used to invoke current class method (implicitly)
+	3) this() can be used to invoke current class constructor.
+	4) this can be passed as an argument in the method call.
+	5) this can be passed as argument in the constructor call.
+	6) this can be used to return the current class instance from the method.
+	
+ 6) Super Keyword in Java
+	The super keyword in Java is a reference variable which is used to refer immediate parent class object.
+
+	Whenever you create the instance of subclass, an instance of parent class is created implicitly 
+	which is referred by super reference variable.
+
+	Usage of Java super Keyword
+	1) super can be used to refer immediate parent class instance variable.
+	2) super can be used to invoke immediate parent class method.
+	3) super() can be used to invoke immediate parent class constructor.
